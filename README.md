@@ -6,9 +6,10 @@ Know about any movie you want
 
 
 **📸 Screenshots**                                                                         
-
-![image](https://github.com/user-attachments/assets/933d7068-9a32-44ca-b5ac-f087a25d8159)
-![image](https://github.com/user-attachments/assets/035081e0-f0bc-447f-9e27-7b4158e71ad3)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/933d7068-9a32-44ca-b5ac-f087a25d8159" width="200">
+  <img src="https://github.com/user-attachments/assets/035081e0-f0bc-447f-9e27-7b4158e71ad3" width="200">
+</p>
 
 #
 
@@ -19,11 +20,11 @@ You can find any movie you want. This app show the movies with api from the inte
 
 🛠️ Technologies   
 
-Compose - for awesome ui and better performance than xml.                                               
-Coroutines - for asyncronous programming.                                                
-Retrofit - for rest api.                                                                                                                           
-MVI - for clear codeing and pattern.                                                                                               
-Multi moduling- for clean Architecture. 
+**Compose** - for awesome ui and better performance than xml.                                               
+**Coroutines** - for asyncronous programming.                                                
+**Retrofit** - for rest api.                                                                                                                           
+**MVI** - for clear codeing and pattern.                                                                                               
+**Multi moduling** - for clean Architecture. 
 
 #
 
